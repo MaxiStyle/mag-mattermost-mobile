@@ -1,0 +1,12 @@
+{
+    "DefaultServerUrl": "https://im.mag-brics.ru",
+    "DefaultServerName": "MAG",
+    "TestServerUrl": "https://im.mag-brics.ru",
+    "AutoSelectServerUrl": true,
+    "WebsiteURL": "https://mag-brics.ru",
+
+    "ShowReview": false,
+    "ShowOnboarding": true,
+
+    "ExperimentalNormalizeMarkdownLinks": false
+}
