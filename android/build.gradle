@@ -47,3 +47,11 @@ apply plugin: "com.facebook.react.rootproject"
 dependencyLocking {
     lockAllConfigurations()
 }
+
+android {
+    defaultConfig {
+        applicationId "com.mag.messenger"
+        versionCode = 1
+        versionName = "1.0.0"        
+    }
+}
